@@ -78,7 +78,7 @@
 			const rows = [];
 			const keys = [];
 
-			const table = document.querySelector(".movie-list");			
+			const table = document.querySelector(".movie-list");
 
 			Array.from(table.rows).forEach((row, idx) => {
 				// debugger;
