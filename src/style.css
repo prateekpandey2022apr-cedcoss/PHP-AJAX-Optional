@@ -47,6 +47,10 @@ a:visited {
 	outline: none;
 }
 
+.col-4 input[type="submit"] {
+	cursor: pointer;
+}
+
 table {
 	border-collapse: collapse;
 	width: 100%;
